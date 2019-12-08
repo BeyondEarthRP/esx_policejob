@@ -37,3 +37,8 @@ dependencies {
 	'es_extended',
 	'esx_billing'
 }
+
+exports {
+  'OpenPoliceActionsMenu'
+}
+
