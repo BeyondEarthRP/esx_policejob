@@ -1881,6 +1881,7 @@ Citizen.CreateThread(function()
 	end
 end)
 
+
 -- Create blip for colleagues
 function createBlip(id)
 	local ped = GetPlayerPed(id)
